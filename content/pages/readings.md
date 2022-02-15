@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0f80c5b5-a565-9d1f-54a4-614ad2c0664f
 ---
@@ -11,13 +14,13 @@ Texts
 
 The text, which will be followed closely, is:
 
-Casella, George, and Roger Berger. _Statistical Inference_ . 2nd ed. Pacific Grove, CA: Thomson Learning, 2002. ISBN: 9780534243128.
+Casella, George, and Roger Berger. _Statistical Inference_ . 2{{< sup "nd" >}} ed. Pacific Grove, CA: Thomson Learning, 2002. ISBN: 9780534243128.
 
 This book covers all of the material in Part 1 and provides many problems for practice as well as excellent references.
 
 ### Part 2
 
-Greene, William. _Econometric Analysis_. 5th ed. Upper Saddle River, NJ: Prentice-Hall, 2003. ISBN: 9780130661890.
+Greene, William. _Econometric Analysis_. 5{{< sup "th" >}} ed. Upper Saddle River, NJ: Prentice-Hall, 2003. ISBN: 9780130661890.
 
 Errors in the 5th edition may be found [here](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm).
 
@@ -141,12 +144,12 @@ READINGSS
 {{< tdopen >}}
 Regression in economics
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 
 
 Greene. _Econometric Analysis._ Chapters 2 and 3 (skim chapters 7 and 8.)
 
-Varian, H. "Econometrics." Chapter 12 in _Microeconomic Analysis_. 3rd ed. New York, NY: W.W. Norton and Company, 1992, pp. 198-214. ISBN: 9780393957358.
+Varian, H. "Econometrics." Chapter 12 in _Microeconomic Analysis_. 3{{< sup "rd" >}} ed. New York, NY: W.W. Norton and Company, 1992, pp. 198-214. ISBN: 9780393957358.
 
 Newey, W. "Convergence Rates and Asymptotic Normality for Series Estimators." _Journal of Econometrics_ 79 (1997): 147-168.
 
@@ -190,7 +193,7 @@ Building functional forms
 {{< tdopen >}}
 Basic regression algebra
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Greene. _Econometric Analysis._ Chapters 4 and 6.
 {{< tdclose >}}
 
@@ -217,7 +220,7 @@ Finite-sample inference under normality and non-normality
 {{< tdopen >}}
 Consistency
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Greene. _Econometric Analysis._ Chapters 5, 6, 11, and 12.

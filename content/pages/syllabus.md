@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: dc586c6b-7538-e839-02aa-2cd25b61af0e
 ---
@@ -35,15 +37,15 @@ Texts
 
 The text, which will be followed closely, is:
 
-Casella, George, and Roger Berger. _Statistical Inference_. 2nd ed. Pacific Grove, CA: Thomson Learning, 2001. ISBN: 9780534243128.
+Casella, George, and Roger Berger. _Statistical Inference_. 2{{< sup "nd" >}} ed. Pacific Grove, CA: Thomson Learning, 2001. ISBN: 9780534243128.
 
 This book covers all of the material in Part 1 and provides many problems for practice as well as excellent references.
 
 ### Part 2
 
-Greene, William. _Econometric Analysis_. 5th ed. Upper Saddle River, NJ: Prentice-Hall, 2002. ISBN: 9780130661890.
+Greene, William. _Econometric Analysis_. 5{{< sup "th" >}} ed. Upper Saddle River, NJ: Prentice-Hall, 2002. ISBN: 9780130661890.
 
-Errors in the 5th edition may be found [here](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm).
+Errors in the 5{{< sup "th" >}} edition may be found [here](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm).
 
 You can also find the material in any standard text on regression.
 
