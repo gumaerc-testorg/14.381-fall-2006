@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ad119e6d-6cb5-8c67-4d0e-8dea760f080b
 resourcetype: Document
 title: finitesample.pdf
 uid: 6f9323dd-afab-4b90-1fda-c98597e7c54b

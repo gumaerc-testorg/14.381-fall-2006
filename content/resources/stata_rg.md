@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ad119e6d-6cb5-8c67-4d0e-8dea760f080b
 resourcetype: Document
 title: stata_rg.pdf
 uid: 3547242f-b515-adc8-d06f-09bee38a77ca

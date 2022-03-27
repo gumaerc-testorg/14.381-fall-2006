@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0f80c5b5-a565-9d1f-54a4-614ad2c0664f
 resourcetype: Document
 title: norm_remarks.pdf
 uid: 91b8b1ed-28e4-8c97-db47-bcdcb8824a60

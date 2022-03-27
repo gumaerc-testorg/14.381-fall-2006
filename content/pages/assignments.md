@@ -147,9 +147,9 @@ Simple regression testing and welcome to STATA
 
 ### Problem 6
 
-datapset6qn6.txt ([TXT](/courses/economics/14-381-statistical-method-in-economics-fall-2006/assignments/datapset6qn6.txt))
+datapset6qn6.txt ([TXT]({{< baseurl >}}/resources/datapset6qn6))
 
-datapset6qn6.dta ([DTA]({{< baseurl >}}/resources/datapset6qn6))
+datapset6qn6.dta ([DTA]({{< baseurl >}}/resources/datapset6qn6-1))
 
 Hints for STATA users ([PDF]({{< baseurl >}}/resources/stata_rg)) (Courtesy of Raymond Guiteras. Used with permission.)
 
