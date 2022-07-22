@@ -5,6 +5,7 @@ file: /courses/14-381-statistical-method-in-economics-fall-2006/a278cfc9d81f74a0
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains data for problem set 6.
-

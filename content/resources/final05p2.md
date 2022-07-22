@@ -6,6 +6,7 @@ file: /courses/14-381-statistical-method-in-economics-fall-2006/e7a022149848ef1d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the Fall 2005 Part II Final Exam, provided as a practice exam for the course.
-

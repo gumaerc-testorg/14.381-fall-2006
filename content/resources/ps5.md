@@ -8,6 +8,7 @@ file: /courses/14-381-statistical-method-in-economics-fall-2006/da6b2513f1b0b198
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a problem set on deriving the OLS estimate for ?, interpreting regression coefficients, projection and residual matrices, partitioned regression, cubic spline approximation, Monte Carlo simulation, and an approximation exercise.
-

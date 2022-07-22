@@ -6,6 +6,7 @@ file: /courses/14-381-statistical-method-in-economics-fall-2006/91b8b1ed28e48c97
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains a reading for the lecture on regression in large samples on where the normality of e comes from.
-
