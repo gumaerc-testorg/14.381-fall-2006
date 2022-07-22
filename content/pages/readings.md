@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information on course texts, readings by lecture
+  topic, and additional readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0f80c5b5-a565-9d1f-54a4-614ad2c0664f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Texts
@@ -11,13 +20,13 @@ Texts
 
 The text, which will be followed closely, is:
 
-Casella, George, and Roger Berger. _Statistical Inference_ . 2nd ed. Pacific Grove, CA: Thomson Learning, 2002. ISBN: 9780534243128.
+Casella, George, and Roger Berger. _Statistical Inference_ . 2{{< sup "nd" >}} ed. Pacific Grove, CA: Thomson Learning, 2002. ISBN: 9780534243128.
 
 This book covers all of the material in Part 1 and provides many problems for practice as well as excellent references.
 
 ### Part 2
 
-Greene, William. _Econometric Analysis_. 5th ed. Upper Saddle River, NJ: Prentice-Hall, 2003. ISBN: 9780130661890.
+Greene, William. _Econometric Analysis_. 5{{< sup "th" >}} ed. Upper Saddle River, NJ: Prentice-Hall, 2003. ISBN: 9780130661890.
 
 Errors in the 5th edition may be found [here](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm).
 
@@ -141,12 +150,12 @@ READINGSS
 {{< tdopen >}}
 Regression in economics
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 
 
 Greene. _Econometric Analysis._ Chapters 2 and 3 (skim chapters 7 and 8.)
 
-Varian, H. "Econometrics." Chapter 12 in _Microeconomic Analysis_. 3rd ed. New York, NY: W.W. Norton and Company, 1992, pp. 198-214. ISBN: 9780393957358.
+Varian, H. "Econometrics." Chapter 12 in _Microeconomic Analysis_. 3{{< sup "rd" >}} ed. New York, NY: W.W. Norton and Company, 1992, pp. 198-214. ISBN: 9780393957358.
 
 Newey, W. "Convergence Rates and Asymptotic Normality for Series Estimators." _Journal of Econometrics_ 79 (1997): 147-168.
 
@@ -190,7 +199,7 @@ Building functional forms
 {{< tdopen >}}
 Basic regression algebra
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Greene. _Econometric Analysis._ Chapters 4 and 6.
 {{< tdclose >}}
 
@@ -217,14 +226,14 @@ Finite-sample inference under normality and non-normality
 {{< tdopen >}}
 Consistency
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Greene. _Econometric Analysis._ Chapters 5, 6, 11, and 12.
 
 Newey, W. "Asymptotic Theory of Least Squares." 14.382 Lecture Notes, Spring 2000.
 
-Remarks on normality ([PDF]({{< baseurl >}}/resources/norm_remarks))
+Remarks on normality ({{% resource_link 91b8b1ed-28e4-8c97-db47-bcdcb8824a60 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -260,4 +269,4 @@ Autocorrelation
 Additional Readings
 -------------------
 
-Appendices in Greene collect background material on matrices and large sample theory. See also the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+Appendices in Greene collect background material on matrices and large sample theory. See also the {{% resource_link 3ab369cc-0995-69f4-4c1d-2bacb52886ae "lecture notes" %}}.

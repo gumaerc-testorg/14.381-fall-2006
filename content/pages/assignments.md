@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information about the course assignments and supporting
+  files.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ad119e6d-6cb5-8c67-4d0e-8dea760f080b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem sets were assigned approximately every two weeks. Problem sets 1-4 were part of Part I and Problems sets 4-7 were part of Part II.
@@ -92,7 +101,7 @@ Likelihood ratio test
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 5 ([PDF]({{< baseurl >}}/resources/ps5))
+Problem set 5 ({{% resource_link da6b2513-f1b0-b198-bd0d-8bc199a62098 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -120,7 +129,7 @@ Approximation exercise
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 6 ([PDF]({{< baseurl >}}/resources/ps6))
+Problem set 6 ({{% resource_link 46af1dd3-5e58-d71d-ed62-9413f78d4f85 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -144,11 +153,11 @@ Simple regression testing and welcome to STATA
 
 ### Problem 6
 
-datapset6qn6.txt ([TXT](/courses/economics/14-381-statistical-method-in-economics-fall-2006/assignments/datapset6qn6.txt))
+datapset6qn6.txt ({{% resource_link a278cfc9-d81f-74a0-1893-e4786271be60 "TXT" %}})
 
-datapset6qn6.dta ([DTA]({{< baseurl >}}/resources/datapset6qn6))
+datapset6qn6.dta ({{% resource_link ab78cf0e-27d0-a1cf-11c4-25e46edc29f5 "DTA" %}})
 
-Hints for STATA users ([PDF]({{< baseurl >}}/resources/stata_rg)) (Courtesy of Raymond Guiteras. Used with permission.)
+Hints for STATA users ({{% resource_link 3547242f-b515-adc8-d06f-09bee38a77ca "PDF" %}}) (Courtesy of Raymond Guiteras. Used with permission.)
 
 
 {{< tdclose >}}
@@ -156,7 +165,7 @@ Hints for STATA users ([PDF]({{< baseurl >}}/resources/stata_rg)) (Courtesy of R
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 7 ([PDF]({{< baseurl >}}/resources/ps7))
+Problem set 7 ({{% resource_link def2c6e3-5df5-b71a-b5c7-14b285e44c9c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -178,7 +187,7 @@ A quick review of the course
 
 ### Problem 5
 
-Finite sample ([PDF]({{< baseurl >}}/resources/finitesample))
+Finite sample ({{% resource_link 6f9323dd-afab-4b90-1fda-c98597e7c54b "PDF" %}})
 
 Kessler, David, and Peter Temin. "[Money and Prices in the Early Roman Empire](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=704724)." In _The Monetary Systems of the Greeks and Romans_. New York, NY: Oxford University Press, forthcoming February, 2008. ISBN: 9780199233359.
 
