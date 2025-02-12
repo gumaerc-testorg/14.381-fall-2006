@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains tips for using Stata software for the course assignments.
   (Courtesy of Raymond Guiteras. Used with permission.)
-file: /courses/14-381-statistical-method-in-economics-fall-2006/3547242fb515adc8d06f09bee38a77ca_stata_rg.pdf
+file: /ol-ocw-studio-app/courses/14-381-statistical-method-in-economics-fall-2006/3547242fb515adc8d06f09bee38a77ca_stata_rg.pdf
+file_size: 55821
 file_type: application/pdf
 learning_resource_types:
 - Assignments

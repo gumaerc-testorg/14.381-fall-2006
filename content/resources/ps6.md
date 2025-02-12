@@ -4,7 +4,8 @@ description: This resource contains a problem set on linearity and unbiasedness,
   the sphericality assumption, review of materials from 14.381 Part I and some key
   derivations, reverse regression, simulation and hypothesis testing, and simple regression
   testing and welcome to STATA.
-file: /courses/14-381-statistical-method-in-economics-fall-2006/46af1dd35e58d71ded629413f78d4f85_ps6.pdf
+file: /ol-ocw-studio-app/courses/14-381-statistical-method-in-economics-fall-2006/46af1dd35e58d71ded629413f78d4f85_ps6.pdf
+file_size: 130315
 file_type: application/pdf
 learning_resource_types:
 - Assignments

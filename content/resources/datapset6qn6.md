@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains data for problem set 6.
-file: /courses/14-381-statistical-method-in-economics-fall-2006/ab78cf0e27d0a1cf11c425e46edc29f5_datapset6qn6.dta
+file: /ol-ocw-studio-app/courses/14-381-statistical-method-in-economics-fall-2006/ab78cf0e27d0a1cf11c425e46edc29f5_datapset6qn6.dta
+file_size: 926
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
