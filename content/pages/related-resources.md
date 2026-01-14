@@ -15,9 +15,9 @@ video_metadata:
 Measurability
 -------------
 
-In this class, we do not need to worry about measurability, since it is not essential for understanding any of the key concepts. Here is a good, quick reference: Koenker, Roger. "Appendix to 13 Ways." {{% resource_link "0e9612bc-3e69-4284-94c2-80880ab54bc3" "Economics 574 Lecture Notes" %}}, Spring 2006.
+In this class, we do not need to worry about measurability, since it is not essential for understanding any of the key concepts. Here is a good, quick reference: Koenker, Roger. "Appendix to 13 Ways." [Economics 574 Lecture Notes](http://www.econ.uiuc.edu/~roger/courses/), Spring 2006.
 
 Introduction to R
 -----------------
 
-This document composed by Grant Farnsworth explains how to use R, a free statistics language. ({{% resource_link "8bebf2aa-74ae-4204-a46b-6ad7163abe6a" "PDF" %}})
+This document composed by Grant Farnsworth explains how to use R, a free statistics language. ([PDF](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf))

@@ -28,7 +28,7 @@ This book covers all of the material in Part 1 and provides many problems for pr
 
 Greene, William. _Econometric Analysis_. 5{{< sup "th" >}} ed. Upper Saddle River, NJ: Prentice-Hall, 2003. ISBN: 9780130661890.
 
-Errors in the 5th edition may be found {{% resource_link "feb80cf7-2eea-4cb0-a6ce-a7c8a68e0598" "here" %}}.
+Errors in the 5th edition may be found [here](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm).
 
 You can also find the material in any standard text on regression.
 
@@ -159,7 +159,7 @@ Varian, H. "Econometrics." Chapter 12 in _Microeconomic Analysis_. 3{{< sup "rd"
 
 Newey, W. "Convergence Rates and Asymptotic Normality for Series Estimators." _Journal of Econometrics_ 79 (1997): 147-168.
 
-{{% resource_link "59d148ad-a95c-4b26-bf89-21c73c2e8628" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Judd, K. "Approximation Methods." Chapter 6 in {{% resource_link "59d148ad-a95c-4b26-bf89-21c73c2e8628" "_Numerical Methods in Economics_" %}}. Cambridge, MA: MIT Press, 1998, pp. 195-249. ISBN: 9780262100717.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262100717) Judd, K. "Approximation Methods." Chapter 6 in [_Numerical Methods in Economics_](https://mitpress.mit.edu/9780262100717). Cambridge, MA: MIT Press, 1998, pp. 195-249. ISBN: 9780262100717.
 
 
 {{< tdclose >}}
